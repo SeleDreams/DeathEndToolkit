@@ -1,5 +1,6 @@
 # CoroHeartToolkit
 CoroHeart toolkit is a tool that allows to export assets from Compile Hearts games  made with the Orochi Engine such as Death End Re;Quest and Megadimension Neptunia VIIR
+https://i.redd.it/08inh6pw2jx41.png
 
 # Usage
 Just double click on CoroHeartToolkitGUI to open it, navigate to your dat file and open it, you can then right click on any file to export it.
